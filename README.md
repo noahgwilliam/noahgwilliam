@@ -1,6 +1,6 @@
 # Hi, I'm Noah 👋
 
-📍 Leeds | 💼 [Platform Engineer] @ [Flutter UKI] | 📈 Enhancing the Developer Experience
+📍 Leeds | 💼 Platform Engineer @ Flutter UKI | 📈 Enhancing the Developer Experience
 
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
